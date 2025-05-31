@@ -1,0 +1,39 @@
+{
+  "Aluno": [
+    {
+      "id": 1,
+      "Nome": "Vinicius",
+      "Idade": 22,
+      "Curso": "BSI",
+      "CPF": "17058127670"
+    },
+    {
+      "id": 2,
+      "Nome": "Mariana",
+      "Idade": 21,
+      "Curso": "Direito",
+      "CPF": "23456789012"
+    },
+    {
+      "id": 3,
+      "Nome": "Carlos",
+      "Idade": 23,
+      "Curso": "Engenharia",
+      "CPF": "34567890123"
+    },
+    {
+      "id": 4,
+      "Nome": "Aline",
+      "Idade": 20,
+      "Curso": "Medicina",
+      "CPF": "45678901234"
+    },
+    {
+      "id": 5,
+      "Nome": "Roberto",
+      "Idade": 25,
+      "Curso": "Administração",
+      "CPF": "56789012345"
+    }
+  ]
+}
